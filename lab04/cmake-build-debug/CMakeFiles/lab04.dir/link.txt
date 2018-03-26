@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/lab04.dir/main.cpp.o CMakeFiles/lab04.dir/Complex.cpp.o CMakeFiles/lab04.dir/Fractions.cpp.o  -o lab04 

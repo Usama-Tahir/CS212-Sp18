@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/usama/CLionProjects/lab04/Complex.cpp
+Complex.h
+/home/usama/CLionProjects/lab04/Complex.h
+iostream
+-
+
+/home/usama/CLionProjects/lab04/Complex.h
+cmath
+-
+
+/home/usama/CLionProjects/lab04/Fractions.cpp
+Fractions.h
+/home/usama/CLionProjects/lab04/Fractions.h
+
+/home/usama/CLionProjects/lab04/Fractions.h
+
+/home/usama/CLionProjects/lab04/main.cpp
+iostream
+-
+Complex.h
+/home/usama/CLionProjects/lab04/Complex.h
+

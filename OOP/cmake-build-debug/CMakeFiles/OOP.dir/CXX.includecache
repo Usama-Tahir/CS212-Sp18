@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/usama/CLionProjects/OOP/Account.cpp
+iostream
+-
+Account.h
+/home/usama/CLionProjects/OOP/Account.h
+
+/home/usama/CLionProjects/OOP/Account.h
+string
+-
+
+/home/usama/CLionProjects/OOP/Complex.cpp
+Complex.h
+/home/usama/CLionProjects/OOP/Complex.h
+iostream
+-
+
+/home/usama/CLionProjects/OOP/Complex.h
+cmath
+-
+
+/home/usama/CLionProjects/OOP/Time.cpp
+Time.h
+/home/usama/CLionProjects/OOP/Time.h
+iostream
+-
+
+/home/usama/CLionProjects/OOP/Time.h
+
+/home/usama/CLionProjects/OOP/main.cpp
+iostream
+-
+Account.h
+/home/usama/CLionProjects/OOP/Account.h
+Complex.h
+/home/usama/CLionProjects/OOP/Complex.h
+Time.h
+/home/usama/CLionProjects/OOP/Time.h
+
